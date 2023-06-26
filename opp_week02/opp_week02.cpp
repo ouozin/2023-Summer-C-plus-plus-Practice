@@ -1,6 +1,8 @@
 ﻿#include <iostream>
 
 int main() {
+	int number = 0;
+	int count = 0;
 
 	std::cout << "Input number : ";
 	std::cin >> number;
